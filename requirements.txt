@@ -1,0 +1,6 @@
+ibm-db
+sqlalchemy
+langchain
+langchain-community
+langchain-openai
+python-dotenv
